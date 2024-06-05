@@ -40,3 +40,6 @@ Podemos observar que los homicidios automovilísticos se intensifican en el rang
 Estos homicidios ocurren en un 75% de los casos en hombres y en un 16% en mujeres de 29 años, siendo las víctimas peatones causadas por motos.
 
 Podríamos concluir que los homicidios más frecuentes son perpetrados por motocicletas contra peatones, lo cual nos hace pensar que no se respetan las señales de tránsito en zonas muy transitadas, lo cual puede llegar a ser peligroso para los peatones.
+
+## Dashboard
+ - [Siniestros_Viales](https://lookerstudio.google.com/reporting/ec63ee0f-1f28-4050-b9ce-e68bcaa24f6f)
